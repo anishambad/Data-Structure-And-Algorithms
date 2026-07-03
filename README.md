@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0058-length-of-last-word) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
