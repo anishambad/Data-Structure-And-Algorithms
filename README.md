@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
