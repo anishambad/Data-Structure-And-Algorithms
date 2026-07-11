@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anishambad/Data-Structure-And-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
 |  |
 | ------- |
